@@ -5,3 +5,9 @@
 </h3>
 
 ---
+
+## My Stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/AadhiPranesh?theme=dark&font=Lexend&ext=contest)](https://leetcode.com/u/AadhiPranesh/)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AadhiPranesh&bg_color=17000d&color=80ff80&line=80ffff&point=00ff40&area=true&hide_border=true)](https://github.com/AadhiPranesh)
