@@ -5,7 +5,30 @@
 </h3>
 
 ---
+## 📌 About Me
 
+- I'm **Aadhi Pranesh S S**.
+- 🎓 Pursuing **B.E. in Computer Science Engineering**.
+-  Passionate about building **full-stack web applications** and **UI&UX**.
+
+---
+## Core Skills
+- **FrontEnd**
+     <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
+</p>
+
+- **BackEnd**
+    <p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,java,python,go,c" />
+</p>
+
+- **Tools**
+    <p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,matlab,postman,notion" />
+</p>
+
+---
 ## My Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/AadhiPranesh?theme=dark&font=Lexend&ext=contest)](https://leetcode.com/u/AadhiPranesh/)
