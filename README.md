@@ -15,12 +15,12 @@
 ## Core Skills
 - **FrontEnd**
      <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
 </p>
 
 - **BackEnd**
     <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,java,python,go,c" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,java,python,c" />
 </p>
 
 - **Tools**
@@ -34,3 +34,9 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/AadhiPranesh?theme=dark&font=Lexend&ext=contest)](https://leetcode.com/u/AadhiPranesh/)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AadhiPranesh&bg_color=17000d&color=80ff80&line=80ffff&point=00ff40&area=true&hide_border=true)](https://github.com/AadhiPranesh)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AadhiPranesh&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
