@@ -9,7 +9,7 @@
 
 - I'm **Aadhi Pranesh S S**.
 - 🎓 Pursuing **B.E. in Computer Science Engineering**.
--  Passionate about building **full-stack web applications** and **UI&UX**.
+
 
 ---
 ## Core Skills
