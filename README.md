@@ -36,13 +36,7 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/AadhiPranesh?theme=dark&font=Lexend&ext=contest)](https://leetcode.com/u/AadhiPranesh/)
 
 <p align="center">
-  <a href="https://github.com/AadhiPranesh">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=AadhiPranesh&bg_color=17000d&color=80ff80&line=80ffff&point=00ff40&area=true&hide_border=true"
-      alt="AadhiPranesh's GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadhiPranesh&theme=github-compact" alt="GitHub Activity Graph" width="100%">
 </p>
 
 ---
