@@ -34,11 +34,11 @@
 ## My Stats
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/AadhiPranesh?theme=dark&font=Lexend&ext=contest)](https://leetcode.com/u/AadhiPranesh/)
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadhiPranesh&theme=github-compact" alt="GitHub Activity Graph" width="100%">
+  <a href="https://github.com/AadhiPranesh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AadhiPranesh&theme=github-compact" alt="AadhiPranesh's GitHub Activity Graph" width="100%">
+  </a>
 </p>
-
 ---
 
 <p align="center">
